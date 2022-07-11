@@ -1,0 +1,10 @@
+<resources>
+    <string name="SetBindUrl">Set invitation url</string>
+    <string name="Previous">Previous</string>
+    <string name="WelcomeMsg">Welcome to Notification Sync Helper</string>
+    <string name="InputUrlTitle">Please enter the invitation url :</string>
+    <string name="or">or</string>
+    <string name="ScanQrCode">Scan QR Code</string>
+    <string name="ServicesStatus">Services status :</string>
+    <string name="DebugMode">Debug mode:</string>
+</resources>

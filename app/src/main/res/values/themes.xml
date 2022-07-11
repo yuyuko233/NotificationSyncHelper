@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotificationSyncHelper" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.NotificationSyncHelper" parent="Base.Theme.NotificationSyncHelper" />
+    <style name="scstyle" parent="Theme.AppCompat.Light">
+        <!--开启时的颜色-->
+        <item name="colorControlActivated">#4CAF50</item>
+        <!--关闭时的颜色-->
+        <item name="colorSwitchThumbNormal">#E91E63</item>
+        <!--关闭时的轨迹颜色-->
+        <item name="android:colorForeground">#F06292</item>
+    </style>
+</resources>

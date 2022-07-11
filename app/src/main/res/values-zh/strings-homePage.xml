@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SetBindUrl">设置邀请链接</string>
+    <string name="Previous">上一个</string>
+    <string name="WelcomeMsg">欢迎使用通知同步助手</string>
+    <string name="InputUrlTitle">请输入邀请链接</string>
+    <string name="or">或者</string>
+    <string name="ScanQrCode">扫描二维码</string>
+    <string name="ServicesStatus">服务状态：</string>
+    <string name="DebugMode">调试模式:</string>
+</resources>

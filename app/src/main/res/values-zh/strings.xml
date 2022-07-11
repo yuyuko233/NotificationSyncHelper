@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">通知同步助手</string>
+    <string name="AccessibilityServicesTip">用于监听并同步通知</string>
+    <string name="NavHomePageTitle">首页</string>
+    <string name="SyncNotificationErr">通知同步失败：</string>
+</resources>

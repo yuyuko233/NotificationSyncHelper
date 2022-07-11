@@ -1,0 +1,7 @@
+<resources>
+    <string name="AppName">NotificationSyncHelper</string>
+    <string name="Github" translatable="false">GitHub</string>
+    <string name="AccessibilityServicesTip">Used to listen and synchronize notifications.</string>
+    <string name="NavHomePageTitle">Home</string>
+    <string name="SyncNotificationErr">Notification sync failed:</string>
+</resources>
